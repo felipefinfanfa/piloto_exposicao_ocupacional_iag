@@ -1,0 +1,31 @@
+ocupacao,indice_0_1,rank_no_indice,mean_ilo,gradiente_ilo,rank_na_OIT,diferenca_de_rank
+Técnico de contabilidade,0.6,1,0.49,Gradient 2,11,10
+Supervisor administrativo,0.5,2,0.43,Gradient 2,15,13
+Administrador,0.475,3,0.42,Gradient 2,16,13
+Escriturário de banco,0.475,4,0.58,Gradient 3,3,1
+Analista financeiro (instituições financeiras),0.475,5,0.62,Gradient 4,1,4
+Analista de logistica,0.45,6,0.38,Minimal Exposure,17,11
+Técnico de suporte ao usuário de tecnologia da informação,0.45,7,0.47,Gradient 2,13,6
+Economista,0.45,8,0.55,Gradient 3,4,4
+Assistente administrativo,0.45,9,0.6,Gradient 4,2,7
+Analista de desenvolvimento de sistemas,0.45,10,0.53,Gradient 3,8,2
+Analista de pesquisa de mercado,0.425,11,0.55,Gradient 3,5,6
+Analista de planejamento e orçamento - apo,0.425,12,0.51,Gradient 3,9,3
+Corretor de imóveis,0.425,13,0.35,Minimal Exposure,20,7
+Jornalista,0.425,14,0.54,Gradient 3,7,7
+Analista de recursos humanos,0.4,15,0.45,Gradient 2,14,1
+Vendedor de comércio varejista,0.4,16,0.38,Gradient 1,18,2
+Eletricista de instalações,0.4,17,0.19,Not Exposed,26,9
+Cozinheiro geral,0.375,18,0.18,Not Exposed,27,9
+"Operador de máquinas fixas, em geral",0.375,19,0.21,Not Exposed,25,6
+Motorista de caminhão (rotas regionais e internacionais),0.375,20,0.24,Minimal Exposure,23,3
+Contador,0.375,21,0.51,Gradient 3,10,11
+"Mecânico de manutenção de máquinas, em geral",0.375,22,0.17,Not Exposed,29,7
+Redator de publicidade,0.35,23,0.55,Gradient 3,6,17
+Enfermeiro,0.35,24,0.25,Not Exposed,22,2
+Professor de matemática no ensino médio,0.35,25,0.3,Not Exposed,21,4
+Desenhista industrial gráfico (designer gráfico),0.325,26,0.49,Gradient 2,12,14
+Técnico de enfermagem,0.325,27,0.22,Minimal Exposure,24,3
+Advogado,0.3,28,0.36,Minimal Exposure,19,9
+Pedreiro,0.3,29,0.09,Not Exposed,30,1
+Encanador,0.275,30,0.18,Not Exposed,28,2

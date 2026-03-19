@@ -1,0 +1,151 @@
+id_atividade,claude-3-haiku-20240307,gpt-4o-mini,diff_modelos,diff_modelos_abs
+Administrador | Avaliar viabilidade de projetos,2.0,2.0,0.0,0.0
+Administrador | Demonstrar capacidade de comunicação,2.0,2.0,0.0,0.0
+Administrador | Estabelecer metodologia de avaliação,2.0,2.0,0.0,0.0
+Administrador | Estabelecer rotinas de trabalho,2.0,2.0,0.0,0.0
+Administrador | Trabalhar em equipe,2.0,1.0,-1.0,1.0
+Advogado | Agir com ética,1.0,0.0,-1.0,1.0
+"Advogado | Analisar, fatos, relatórios e documentos",2.0,2.0,0.0,0.0
+Advogado | Cumprir prazos legais,2.0,1.0,-1.0,1.0
+Advogado | Demonstrar criatividade,1.0,1.0,0.0,0.0
+Advogado | Realizar audiências trabalhistas,1.0,0.5,-0.5,0.5
+Analista de desenvolvimento de sistemas | Atender chamados/tickets (incidentes),2.0,2.0,0.0,0.0
+Analista de desenvolvimento de sistemas | Demonstrar capacidade de trabalhar sob pressão,1.0,0.0,-1.0,1.0
+Analista de desenvolvimento de sistemas | Elaborar dicionário de dados,2.0,3.0,1.0,1.0
+Analista de desenvolvimento de sistemas | Identificar riscos,2.0,2.0,0.0,0.0
+Analista de desenvolvimento de sistemas | Testar sistemas,2.0,2.0,0.0,0.0
+Analista de logistica | Definir prazos,2.0,2.0,0.0,0.0
+Analista de logistica | Demonstrar capacidade de administrar o tempo,2.0,1.0,-1.0,1.0
+Analista de logistica | Demonstrar capacidade de iniciativa,2.0,1.0,-1.0,1.0
+Analista de logistica | Dimensionar necessidade de materiais,2.0,2.0,0.0,0.0
+Analista de logistica | Selecionar informações,2.0,2.0,0.0,0.0
+Analista de pesquisa de mercado | Acompanhar atuação da concorrência,2.0,2.0,0.0,0.0
+Analista de pesquisa de mercado | Demonstrar capacidade de abstração,2.0,1.0,-1.0,1.0
+Analista de pesquisa de mercado | Demonstrar capacidade de flexibilidade,2.0,1.0,-1.0,1.0
+"Analista de pesquisa de mercado | Relacionar-se com a mídia, órgãos governamentais, entidades de classe e associações, entre outros",2.0,1.0,-1.0,1.0
+Analista de pesquisa de mercado | Subsidiar desenvolvimento e/ou melhorias de processos,2.0,2.0,0.0,0.0
+Analista de planejamento e orçamento - apo | Administrar conflitos,1.0,1.0,0.0,0.0
+Analista de planejamento e orçamento - apo | Avaliar processo orçamentário,2.0,2.0,0.0,0.0
+Analista de planejamento e orçamento - apo | Demonstrar pró-atividade,2.0,1.0,-1.0,1.0
+Analista de planejamento e orçamento - apo | Desenvolver sistema de indicadores,2.0,2.0,0.0,0.0
+Analista de planejamento e orçamento - apo | Subsidiar elaboração de diretrizes de política fiscal,2.0,1.5,-0.5,0.5
+Analista de recursos humanos | Coordenar eventos sociais da empresa,1.0,1.0,0.0,0.0
+Analista de recursos humanos | Indicar testemunhas para depor em causas trabalhistas,1.0,1.0,0.0,0.0
+Analista de recursos humanos | Orientar empregados sobre benefícios,2.0,2.0,0.0,0.0
+Analista de recursos humanos | Preparar multiplicadores para treinamento,2.0,2.0,0.0,0.0
+Analista de recursos humanos | Propor ações corretivas resultantes da avaliação,2.0,2.0,0.0,0.0
+"Analista financeiro (instituições financeiras) | Apurar taxas médias, prazos e saldos médios das carteiras",2.5,2.0,-0.5,0.5
+Analista financeiro (instituições financeiras) | Assegurar implantação de normas locais e da matriz,2.0,1.0,-1.0,1.0
+Analista financeiro (instituições financeiras) | Demonstrar capacidade de comunicação oral e escrita,2.0,2.0,0.0,0.0
+Analista financeiro (instituições financeiras) | Demonstrar capacidade de síntese,2.0,2.0,0.0,0.0
+Analista financeiro (instituições financeiras) | Determinar indicadores financeiros (performance),2.0,2.0,0.0,0.0
+Assistente administrativo | Coletar dados,2.0,2.0,0.0,0.0
+Assistente administrativo | Conferir dados e datas,2.0,3.0,1.0,1.0
+Assistente administrativo | Demonstrar capacidade de adaptação de linguagem,2.0,2.0,0.0,0.0
+Assistente administrativo | Providenciar devolução de material fora de especificação,2.0,1.0,-1.0,1.0
+Assistente administrativo | Transmitir credibilidade,1.0,1.0,0.0,0.0
+Contador | Administrar o prontuário dos funcionários,1.0,1.0,0.0,0.0
+Contador | Confrontar as informações contábeis com custos,2.0,2.0,0.0,0.0
+Contador | Parametrizar aplicativos contábeis/fiscais e de suporte,2.0,2.0,0.0,0.0
+Contador | Providenciar defesa,1.0,1.0,0.0,0.0
+"Contador | Utilizar fax, telefone,internet e intranet",2.0,1.0,-1.0,1.0
+Corretor de imóveis | Apresentar contratos e/ou confirmação das transações,2.0,2.0,0.0,0.0
+Corretor de imóveis | Delimitar região de pesquisa,2.0,2.0,0.0,0.0
+Corretor de imóveis | Demonstrar capacidade de trabalhar em equipe,1.0,1.0,0.0,0.0
+Corretor de imóveis | Selecionar imóveis e/ou ofertas de grãos de acordo com as necessidades dos clientes,2.0,2.0,0.0,0.0
+Corretor de imóveis | Vistoriar imóveis,2.0,1.0,-1.0,1.0
+Cozinheiro geral | Aguçar visão,1.0,1.0,0.0,0.0
+"Cozinheiro geral | Comunicar-se com o salão (garçom, maitre)",2.0,1.0,-1.0,1.0
+"Cozinheiro geral | Elaborar caldos, fundos e molhos básicos",2.0,2.0,0.0,0.0
+Cozinheiro geral | Planejar rotina de limpeza,2.0,2.0,0.0,0.0
+Cozinheiro geral | Zelar pelos equipamentos e utensílios,1.0,1.0,0.0,0.0
+Desenhista industrial gráfico (designer gráfico) | Avaliar idéias ou conceitos propostos,2.0,2.0,0.0,0.0
+Desenhista industrial gráfico (designer gráfico) | Demonstrar capacidade de percepção,1.0,1.0,0.0,0.0
+Desenhista industrial gráfico (designer gráfico) | Realizar pesquisa de campo,1.0,1.0,0.0,0.0
+Desenhista industrial gráfico (designer gráfico) | Registrar patente ou direito autoral,1.0,1.0,0.0,0.0
+Desenhista industrial gráfico (designer gráfico) | Solicitar parecer de outros profissionais,2.0,1.0,-1.0,1.0
+Economista | Auxiliar em políticas de marketing,2.0,2.0,0.0,0.0
+Economista | Coletar dados,2.0,2.0,0.0,0.0
+Economista | Gerenciar bancos de dados,2.0,2.0,0.0,0.0
+Economista | Realizar análises setoriais e regionais,2.0,2.0,0.0,0.0
+Economista | Recrutar equipe,1.5,1.0,-0.5,0.5
+Eletricista de instalações | Emendar condutores elétricos,2.0,1.0,-1.0,1.0
+Eletricista de instalações | Instalar condutores e acessórios,2.0,1.0,-1.0,1.0
+Eletricista de instalações | Interpretar esquemas elétricos dos equipamentos,2.0,2.0,0.0,0.0
+Eletricista de instalações | Organizar equipamentos e ferramentas,2.0,1.0,-1.0,1.0
+Eletricista de instalações | Preencher requisição de material,2.0,1.0,-1.0,1.0
+Encanador | Demonstar iniciativa,1.0,1.0,0.0,0.0
+Encanador | Estudar projeto,1.0,1.0,0.0,0.0
+Encanador | Fixar redes,1.0,1.0,0.0,0.0
+Encanador | Testar pressão da água que vem da concessionária,2.0,1.0,-1.0,1.0
+Encanador | Tomar decisões rápidas,1.0,1.0,0.0,0.0
+Enfermeiro | Avaliar resultados,2.0,2.0,0.0,0.0
+Enfermeiro | Demonstrar capacidade de atentar a detalhes,1.0,1.0,0.0,0.0
+Enfermeiro | Monitorar processo de trabalho,2.0,1.0,-1.0,1.0
+Enfermeiro | Organizar grupos de estudos,1.0,1.0,0.0,0.0
+Enfermeiro | Participar de campanhas de combate aos agravos da saúde,2.0,1.0,-1.0,1.0
+Escriturário de banco | Atualizar documentos em arquivo,2.0,2.0,0.0,0.0
+Escriturário de banco | Atualizar-se profissionalmente,2.0,1.0,-1.0,1.0
+Escriturário de banco | Comunicar-se,2.0,1.5,-0.5,0.5
+Escriturário de banco | Liquidar contratos,2.0,2.0,0.0,0.0
+Escriturário de banco | Transferir débitos e créditos entre bancos e agências,2.0,2.0,0.0,0.0
+Jornalista | Desenvolver capacidade de organização,2.0,1.0,-1.0,1.0
+Jornalista | Executar pauta,2.0,2.0,0.0,0.0
+Jornalista | Hierarquizar a informação,2.0,2.0,0.0,0.0
+Jornalista | Ler livros,2.0,0.0,-2.0,2.0
+Jornalista | Pesquisar informações,2.0,2.0,0.0,0.0
+"Mecânico de manutenção de máquinas, em geral | Criar dispositivos para redução de riscos de acidentes",2.0,1.0,-1.0,1.0
+"Mecânico de manutenção de máquinas, em geral | Demonstrar capacidade de comunicação",2.0,1.0,-1.0,1.0
+"Mecânico de manutenção de máquinas, em geral | Detectar possibilidade de falhas",2.0,1.0,-1.0,1.0
+"Mecânico de manutenção de máquinas, em geral | Reutilizar matéria-prima de peças substituídas",2.0,1.0,-1.0,1.0
+"Mecânico de manutenção de máquinas, em geral | Sinalizar equipamentos e máquinas em manutenção",2.0,1.0,-1.0,1.0
+Motorista de caminhão (rotas regionais e internacionais) | Centralizar cargas,2.0,1.0,-1.0,1.0
+Motorista de caminhão (rotas regionais e internacionais) | Conferir a posição dos animais na gaiola,2.0,1.0,-1.0,1.0
+Motorista de caminhão (rotas regionais e internacionais) | Inspecionar água e óleo,2.0,1.0,-1.0,1.0
+Motorista de caminhão (rotas regionais e internacionais) | Operar empilhadeira com funções múltiplas,2.0,1.0,-1.0,1.0
+Motorista de caminhão (rotas regionais e internacionais) | Realizar pequenos reparos no veículo,2.0,1.0,-1.0,1.0
+"Operador de máquinas fixas, em geral | Controlar pressão de condensação e evaporação",2.0,1.0,-1.0,1.0
+"Operador de máquinas fixas, em geral | Demonstrar senso de organização",2.0,1.0,-1.0,1.0
+"Operador de máquinas fixas, em geral | Monitorar manutenção de máquinas e equipamentos",2.0,1.0,-1.0,1.0
+"Operador de máquinas fixas, em geral | Requisitar materiais e insumos",2.0,1.0,-1.0,1.0
+"Operador de máquinas fixas, em geral | Trabalhar com atenção",2.0,0.5,-1.5,1.5
+Pedreiro | Demolir edificações,1.0,0.0,-1.0,1.0
+Pedreiro | Disponibilizar os materiais para a obra,2.0,1.0,-1.0,1.0
+Pedreiro | Esquadrejar as alvenarias,1.0,1.0,0.0,0.0
+Pedreiro | Nivelar as alvenarias,2.0,1.0,-1.0,1.0
+Pedreiro | Providenciar as formas para as fundações,2.0,1.0,-1.0,1.0
+"Professor de matemática no ensino médio | Corrigir provas, trabalhos e outros instrumentos de avaliação",1.0,2.0,1.0,1.0
+"Professor de matemática no ensino médio | Desenvolver as percepções estética, ética e política nos alunos",1.0,1.0,0.0,0.0
+Professor de matemática no ensino médio | Escolher material didático e pedagógico,2.0,1.5,-0.5,0.5
+Professor de matemática no ensino médio | Estimular a continuidade da escolaridade,1.0,1.0,0.0,0.0
+Professor de matemática no ensino médio | Propor a aquisição e manutenção de equipamentos e instalações,2.0,1.0,-1.0,1.0
+Redator de publicidade | Antever cenários futuros,2.0,1.0,-1.0,1.0
+Redator de publicidade | Apresentar projeto para cliente,2.0,1.0,-1.0,1.0
+Redator de publicidade | Demonstrar habilidade de comunicação verbal,2.0,1.0,-1.0,1.0
+Redator de publicidade | Demonstrar liderança,1.0,1.0,0.0,0.0
+Redator de publicidade | Demonstrar pró-atividade,2.0,1.0,-1.0,1.0
+Supervisor administrativo | Coordenar serviços terceirizados,2.0,1.0,-1.0,1.0
+Supervisor administrativo | Demonstrar fluência verbal e escrita,2.0,2.0,0.0,0.0
+Supervisor administrativo | Emitir notas fiscais e recibos,3.0,3.0,0.0,0.0
+Supervisor administrativo | Reembolsar despesas,2.0,2.0,0.0,0.0
+Supervisor administrativo | Trabalhar em equipe,2.0,1.0,-1.0,1.0
+Técnico de contabilidade | Apurar o resultado da alienação,2.0,2.0,0.0,0.0
+Técnico de contabilidade | Criar relatório de custo,3.0,3.0,0.0,0.0
+Técnico de contabilidade | Definir centro de custos,2.0,2.0,0.0,0.0
+Técnico de contabilidade | Fazer balancetes de verificação,3.0,3.0,0.0,0.0
+Técnico de contabilidade | Preparar fluxo de caixa,2.0,2.0,0.0,0.0
+Técnico de enfermagem | Ajudar paciente a alimentar-se,1.0,1.0,0.0,0.0
+Técnico de enfermagem | Aspirar cânula orotraqueal e de traqueostomia,1.0,0.0,-1.0,1.0
+Técnico de enfermagem | Calcular dosagem de medicamentos,2.0,3.0,1.0,1.0
+Técnico de enfermagem | Recomendar desembarque de pessoa doente e acidentada,1.0,1.0,0.0,0.0
+"Técnico de enfermagem | Verificar peso corporal, altura e/ou circunferência abdominal de paciente",2.0,1.0,-1.0,1.0
+Técnico de suporte ao usuário de tecnologia da informação | Demonstrar capacidade de agilidade no atendimento,2.0,1.0,-1.0,1.0
+Técnico de suporte ao usuário de tecnologia da informação | Demonstrar capacidade de observação,2.0,1.0,-1.0,1.0
+Técnico de suporte ao usuário de tecnologia da informação | Instalar softwares e/ou sistemas operacionais,2.0,2.0,0.0,0.0
+Técnico de suporte ao usuário de tecnologia da informação | Monitorar registros de erros,2.0,2.0,0.0,0.0
+"Técnico de suporte ao usuário de tecnologia da informação | Recuperar arquivos, programas e relatórios",2.0,2.0,0.0,0.0
+Vendedor de comércio varejista | Demonstrar flexibilidade,2.0,1.0,-1.0,1.0
+Vendedor de comércio varejista | Lidar com o público,2.0,1.0,-1.0,1.0
+Vendedor de comércio varejista | Oferecer garantia suplementar,2.0,1.0,-1.0,1.0
+Vendedor de comércio varejista | Orientar clientes,2.0,1.0,-1.0,1.0
+Vendedor de comércio varejista | Preencher relatório de perda de produtos,2.0,2.0,0.0,0.0

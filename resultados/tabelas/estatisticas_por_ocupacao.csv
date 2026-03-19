@@ -1,0 +1,31 @@
+ocupacao,count,mean,std,median
+Administrador,20,1.9,0.3077935056255463,2.0
+Advogado,20,1.15,0.6708203932499369,1.0
+Analista de desenvolvimento de sistemas,20,1.8,0.7677718959499144,2.0
+Analista de logistica,20,1.8,0.41039134083406165,2.0
+Analista de pesquisa de mercado,20,1.7,0.4701623459816272,2.0
+Analista de planejamento e orçamento - apo,20,1.65,0.4893604849295929,2.0
+Analista de recursos humanos,20,1.6,0.5026246899500346,2.0
+Analista financeiro (instituições financeiras),20,1.95,0.3940344628262061,2.0
+Assistente administrativo,20,1.8,0.6155870112510927,2.0
+Contador,20,1.5,0.512989176042577,1.5
+Corretor de imóveis,20,1.7,0.47016234598162737,2.0
+Cozinheiro geral,20,1.5,0.512989176042577,1.5
+Desenhista industrial gráfico (designer gráfico),20,1.3,0.4701623459816272,1.0
+Economista,20,1.85,0.36634754853252327,2.0
+Eletricista de instalações,20,1.6,0.5026246899500346,2.0
+Encanador,20,1.1,0.30779350562554625,1.0
+Enfermeiro,20,1.4,0.5026246899500346,1.0
+Escriturário de banco,20,1.85,0.36634754853252327,2.0
+Jornalista,20,1.7,0.6569466853317864,2.0
+"Mecânico de manutenção de máquinas, em geral",20,1.5,0.512989176042577,1.5
+Motorista de caminhão (rotas regionais e internacionais),20,1.5,0.512989176042577,1.5
+"Operador de máquinas fixas, em geral",20,1.45,0.6048053188292994,1.5
+Pedreiro,20,1.2,0.6155870112510925,1.0
+Professor de matemática no ensino médio,20,1.35,0.48936048492959283,1.0
+Redator de publicidade,20,1.4,0.5026246899500346,1.0
+Supervisor administrativo,20,2.0,0.6488856845230502,2.0
+Técnico de contabilidade,20,2.4,0.5026246899500345,2.0
+Técnico de enfermagem,20,1.3,0.8013147091860318,1.0
+Técnico de suporte ao usuário de tecnologia da informação,20,1.8,0.41039134083406165,2.0
+Vendedor de comércio varejista,20,1.6,0.5026246899500346,2.0

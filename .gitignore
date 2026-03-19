@@ -1,0 +1,19 @@
+# Ambientes Python
+.venv/
+venv/
+__pypackages__/
+
+# Bytecode e caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credenciais locais
+.env
+
+# Arquivos locais/temporários
+*.log
+

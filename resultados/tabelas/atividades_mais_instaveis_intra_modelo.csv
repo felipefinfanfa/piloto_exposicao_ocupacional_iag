@@ -1,0 +1,21 @@
+id_atividade,score_r1,score_r2,diff,diff_abs,modelo
+Economista | Recrutar equipe,1.0,2.0,1.0,1.0,claude-3-haiku-20240307
+"Analista financeiro (instituições financeiras) | Apurar taxas médias, prazos e saldos médios das carteiras",3.0,2.0,-1.0,1.0,claude-3-haiku-20240307
+Administrador | Estabelecer metodologia de avaliação,2.0,2.0,0.0,0.0,claude-3-haiku-20240307
+Administrador | Estabelecer rotinas de trabalho,2.0,2.0,0.0,0.0,claude-3-haiku-20240307
+Administrador | Avaliar viabilidade de projetos,2.0,2.0,0.0,0.0,claude-3-haiku-20240307
+Administrador | Demonstrar capacidade de comunicação,2.0,2.0,0.0,0.0,claude-3-haiku-20240307
+"Advogado | Analisar, fatos, relatórios e documentos",2.0,2.0,0.0,0.0,claude-3-haiku-20240307
+Advogado | Cumprir prazos legais,2.0,2.0,0.0,0.0,claude-3-haiku-20240307
+Advogado | Demonstrar criatividade,1.0,1.0,0.0,0.0,claude-3-haiku-20240307
+Advogado | Realizar audiências trabalhistas,1.0,1.0,0.0,0.0,claude-3-haiku-20240307
+Advogado | Realizar audiências trabalhistas,0.0,1.0,1.0,1.0,gpt-4o-mini
+Analista de planejamento e orçamento - apo | Subsidiar elaboração de diretrizes de política fiscal,2.0,1.0,-1.0,1.0,gpt-4o-mini
+Escriturário de banco | Comunicar-se,2.0,1.0,-1.0,1.0,gpt-4o-mini
+"Operador de máquinas fixas, em geral | Trabalhar com atenção",1.0,0.0,-1.0,1.0,gpt-4o-mini
+Professor de matemática no ensino médio | Escolher material didático e pedagógico,1.0,2.0,1.0,1.0,gpt-4o-mini
+Administrador | Avaliar viabilidade de projetos,2.0,2.0,0.0,0.0,gpt-4o-mini
+Advogado | Agir com ética,0.0,0.0,0.0,0.0,gpt-4o-mini
+"Advogado | Analisar, fatos, relatórios e documentos",2.0,2.0,0.0,0.0,gpt-4o-mini
+Advogado | Cumprir prazos legais,1.0,1.0,0.0,0.0,gpt-4o-mini
+Advogado | Demonstrar criatividade,1.0,1.0,0.0,0.0,gpt-4o-mini

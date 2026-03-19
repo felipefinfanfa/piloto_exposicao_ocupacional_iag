@@ -1,0 +1,31 @@
+ocupacao_equivalente_ILO,codigo,gradiente_ilo,mean_ilo
+Accounting Associate Professionals,3313,Gradient 2,0.49
+Office Supervisors,3341,Gradient 2,0.43
+Business Services and Administration Managers Not Elsewhere Classified,1219,Gradient 2,0.42
+Bank Tellers and Related Clerks,4211,Gradient 3,0.58
+Financial Analysts,2413,Gradient 4,0.62
+"Supply, Distribution and Related Managers",1324,Minimal Exposure,0.38
+Information and Communications Technology User Support Technicians,3512,Gradient 2,0.47
+Economists,2631,Gradient 3,0.55
+General Office Clerks,4110,Gradient 4,0.6
+Software Developers,2512,Gradient 3,0.53
+Advertising and Marketing Professionals,2431,Gradient 3,0.55
+Accountants,2411,Gradient 3,0.51
+Real Estate Agents and Property Managers,3334,Minimal Exposure,0.35
+Journalists,2642,Gradient 3,0.54
+Personnel and Careers Professionals,2423,Gradient 2,0.45
+Shop Sales Assistants,5223,Gradient 1,0.38
+Building and Related Electricians,7411,Not Exposed,0.19
+Cooks,5120,Not Exposed,0.18
+Mineral and Stone Processing Plant Operators,8112,Not Exposed,0.21
+Heavy Truck and Lorry Drivers,8332,Minimal Exposure,0.24
+Accountants,2411,Gradient 3,0.51
+Agricultural and Industrial Machinery Mechanics and Repairers,7233,Not Exposed,0.17
+Advertising and Marketing Professionals,2431,Gradient 3,0.55
+Nursing Professionals,2221,Not Exposed,0.25
+Secondary Education Teachers,2330,Not Exposed,0.3
+Graphic and Multimedia Designer,2166,Gradient 2,0.49
+Nursing Associate Professionals,3221,Minimal Exposure,0.22
+Lawyers,2611,Minimal Exposure,0.36
+Bricklayers and Related Workers,7112,Not Exposed,0.09
+Plumbers and Pipe Fitters,7126,Not Exposed,0.18

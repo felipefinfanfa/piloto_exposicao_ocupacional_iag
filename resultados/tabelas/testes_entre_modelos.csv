@@ -1,0 +1,2 @@
+n,teste,stat,p,shapiro_p,normal,comparacao
+150,wilcoxon,150.0,2.243677244381089e-12,2.1061310857167246e-14,False,claude-3-haiku-20240307 vs gpt-4o-mini (medias por atividade)
