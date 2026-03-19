@@ -94,4 +94,4 @@ Após a reorganização, o repositório deve ficar organizado assim:
 
 ### Autor
 
-Lipe Ferreira (`lipef`) — portfólio acadêmico/profissional.
+Felipe Fin Fanfa (`felipefinfanfa`) — portfólio acadêmico/profissional.
