@@ -21,7 +21,7 @@ O estudo mapeia **ocupações da Classificação Brasileira de Ocupações (CBO)
 
 ### Estrutura do projeto (alvo para publicação)
 
-Após a reorganização, o repositório deve ficar organizado assim:
+A organização do projeto segue a segunte lógica:
 
 - `dados/`
   - insumos e dados tabulares usados como entrada (CSV/planilhas)
@@ -35,9 +35,7 @@ Após a reorganização, o repositório deve ficar organizado assim:
 - `documentacao/`
   - documentos metodológicos e dicionário de dados
 - `tcc/`
-  - materiais auxiliares para o TCC (opcional)
-
-> Observação: esta estrutura é proposta para facilitar leitura, portfólio e reprodutibilidade no GitHub.
+  - materiais auxiliares para o TCC
 
 ### Principais arquivos
 
