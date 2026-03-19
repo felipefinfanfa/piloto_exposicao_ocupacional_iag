@@ -42,91 +42,100 @@ MODEL_2 = "claude-3-haiku-20240307"
 N_RODADAS = 2
 
 
-PROMPT_TEMPLATE = """Avalie a exposição da atividade abaixo à Inteligência Artificial generativa baseada em linguagem (LLMs).
+PROMPT_TEMPLATE = """# Avalie a exposição da atividade abaixo à Inteligência Artificial generativa baseada em linguagem (LLMs).
 
-REGRAS DE AVALIAÇÃO
+## REGRAS DE AVALIAÇÃO
 
--Considere apenas as capacidades técnicas atuais ou de curto prazo dos LLMs.
--Ignore fatores econômicos, regulatórios, institucionais, organizacionais e de adoção.
--Avalie apenas a atividade informada, no contexto da ocupação.
--Não avalie a ocupação inteira.
--Interprete a atividade em seu sentido mais típico e literal dentro da ocupação.
+- Considere apenas as capacidades técnicas atuais ou de curto prazo dos LLMs.
+- Ignore fatores econômicos, regulatórios, institucionais, organizacionais e de adoção.
+- Avalie apenas a atividade informada, no contexto da ocupação.
+- Não avalie a ocupação inteira.
+- Interprete a atividade em seu sentido mais típico e literal dentro da ocupação.
 
-Contexto ocupacional:
+**Contexto ocupacional:**
+
 {ocupacao}
 
-Atividade:
+**Atividade:**
+
 {atividade}
 
-CRITÉRIOS DE JULGAMENTO
+## CRITÉRIOS DE JULGAMENTO
 
-1. Capacidade técnica de execução
+### 1. Capacidade técnica de execução
 Verifique se o LLM consegue executar a atividade de forma útil, integralmente ou em parte.
 
-2. Padronização e codificabilidade
+### 2. Padronização e codificabilidade
 Verifique se a atividade pode ser descrita por instruções claras, replicáveis e baseadas em regras.
 
-3. Dependência de julgamento humano complexo
+### 3. Dependência de julgamento humano complexo
 Verifique se a atividade exige interpretação ambígua, discernimento subjetivo, criatividade ou decisão contextual não padronizada.
 
-4. Necessidade de interação humana complexa
+### 4. Necessidade de interação humana complexa
 Verifique se a atividade exige negociação, persuasão, empatia, mediação, coordenação interpessoal ou contato humano como núcleo da ação.
 
-REGRAS DE AVALIAÇÃO
+## REGRAS DE AVALIAÇÃO
 
 1. Identifique primeiro o núcleo da atividade: a ação principal que define seu objetivo imediato no contexto da ocupação.
-
 2. Identifique separadamente a parte periférica: apoio, preparação, organização, registro, busca de informação, síntese, documentação ou estruturação textual.
-
 3. Avalie se o LLM executa de forma útil o núcleo da atividade.
-
 4. Avalie se o LLM executa apenas alguma parte periférica da atividade.
-
 5. Avalie se o núcleo depende de julgamento humano complexo.
-
 6. Avalie se o núcleo depende de interação humana complexa.
 
-ESCALA (0–4)
+## ESCALA (0–4)
 
-NÍVEL 0 - NÃO EXPOSTA
+### NÍVEL 0 - NÃO EXPOSTA
+
 Use 0 quando:
+
 - o LLM não executa a atividade de modo útil;
 - a atividade não pode ser reduzida a instruções claras, estáveis e repetíveis;
 - o núcleo da atividade exige julgamento humano contextual, tácito ou situado;
 - o núcleo da atividade exige interação humana complexa, presença social ou percepção/manipulação do mundo físico.
 
-NÍVEL 1 - EXPOSIÇÃO BAIXA
+### NÍVEL 1 - EXPOSIÇÃO BAIXA
+
 Use 1 quando:
+
 - o LLM executa apenas partes periféricas ou preparatórias da atividade de forma útil;
 - a atividade contém alguns elementos descritíveis, mas o núcleo não pode ser totalmente descrito por regras ou instruções;
 - o núcleo da atividade exige julgamento humano para definir, interpretar ou decidir o resultado;
 - a interação humana complexa ou o contexto situacional continuam sendo necessários para o núcleo da atividade.
 
-NÍVEL 2 - EXPOSIÇÃO MODERADA
+### NÍVEL 2 - EXPOSIÇÃO MODERADA
+
 Use 2 quando:
+
 - o LLM executa de forma útil parte do processo, mas não executa diretamente o núcleo da atividade;
 - a atividade combina etapas que podem ser descritas por instruções com etapas que exigem contexto, integração ou interpretação;
 - o núcleo da atividade exige julgamento humano para orientar, validar ou decidir o resultado;
 - a interação humana complexa ou a adaptação ao contexto continuam sendo necessárias para o núcleo da atividade.
 
-NÍVEL 3 - EXPOSIÇÃO ALTA
+### NÍVEL 3 - EXPOSIÇÃO ALTA
+
 Use 3 quando:
+
 - o LLM executa de forma útil o núcleo da atividade;
 - a atividade pode ser descrita por instruções claras, repetíveis e baseadas em informação;
 - o julgamento humano aparece principalmente como revisão, validação, supervisão ou decisão final;
 - a interação humana não constitui o núcleo da atividade, embora ainda possa ser relevante em etapas específicas.
 
-NÍVEL 4 - EXPOSIÇÃO MUITO ALTA
+### NÍVEL 4 - EXPOSIÇÃO MUITO ALTA
+
 Use 4 quando:
+
 - o LLM executa de forma útil a maior parte ou praticamente todo o núcleo da atividade;
 - a atividade é padronizada, textual, informacional, classificatória ou baseada em regras claras e estáveis;
 - o julgamento humano é limitado, acessório ou não decisivo para a execução;
 - a interação humana é pouco necessária e não altera de forma decisiva o resultado.
 
-FORMATO DE SAÍDA
+## FORMATO DE SAÍDA
+
 Responda em exatamente duas linhas:
-Linha 1: número inteiro de 0 a 4
-Linha 2: justificativa curta, com no máximo 12 palavras"""
+
+**Linha 1:** número inteiro de 0 a 4  
+**Linha 2:** justificativa curta, com no máximo 12 palavras"""
 
 
 @dataclass
